@@ -1,0 +1,1 @@
+Dado um array, ordene o array em ordem crescente, primeiro pela frequência de cada valor, e então ordene pelos valores.

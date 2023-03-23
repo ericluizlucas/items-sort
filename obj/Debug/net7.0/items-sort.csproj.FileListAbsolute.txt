@@ -1,0 +1,15 @@
+/home/ericluizlucas/Documents/study/dotnet/items-sort/bin/Debug/net7.0/items-sort
+/home/ericluizlucas/Documents/study/dotnet/items-sort/bin/Debug/net7.0/items-sort.deps.json
+/home/ericluizlucas/Documents/study/dotnet/items-sort/bin/Debug/net7.0/items-sort.runtimeconfig.json
+/home/ericluizlucas/Documents/study/dotnet/items-sort/bin/Debug/net7.0/items-sort.dll
+/home/ericluizlucas/Documents/study/dotnet/items-sort/bin/Debug/net7.0/items-sort.pdb
+/home/ericluizlucas/Documents/study/dotnet/items-sort/obj/Debug/net7.0/items-sort.csproj.AssemblyReference.cache
+/home/ericluizlucas/Documents/study/dotnet/items-sort/obj/Debug/net7.0/items-sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/ericluizlucas/Documents/study/dotnet/items-sort/obj/Debug/net7.0/items-sort.AssemblyInfoInputs.cache
+/home/ericluizlucas/Documents/study/dotnet/items-sort/obj/Debug/net7.0/items-sort.AssemblyInfo.cs
+/home/ericluizlucas/Documents/study/dotnet/items-sort/obj/Debug/net7.0/items-sort.csproj.CoreCompileInputs.cache
+/home/ericluizlucas/Documents/study/dotnet/items-sort/obj/Debug/net7.0/items-sort.dll
+/home/ericluizlucas/Documents/study/dotnet/items-sort/obj/Debug/net7.0/refint/items-sort.dll
+/home/ericluizlucas/Documents/study/dotnet/items-sort/obj/Debug/net7.0/items-sort.pdb
+/home/ericluizlucas/Documents/study/dotnet/items-sort/obj/Debug/net7.0/items-sort.genruntimeconfig.cache
+/home/ericluizlucas/Documents/study/dotnet/items-sort/obj/Debug/net7.0/ref/items-sort.dll
